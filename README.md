@@ -1,6 +1,4 @@
-Here is an **extended but still minimal and human-written GitHub description**, with **no icons** and clean academic tone:
 
----
 
 ## Repository Name
 
@@ -39,7 +37,3 @@ python tic_tac_toe.py
 * Implementing turn-based game logic
 * Handling user events and callbacks
 * Applying object-oriented programming concepts
-
----
-
-If you want, I can also rewrite this for **college project submission**, **viva explanation**, or a **short README version**.
