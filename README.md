@@ -4,9 +4,9 @@
 
 **Tic-Tac-Toe (2 Player)**
 
----
 
-### Description
+
+### Description:
 
 This project is a two-player Tic-Tac-Toe desktop application developed using Python and the Tkinter GUI library. The game provides a simple 3×3 grid where two users play alternately as Player X and Player O. Each move is validated to prevent overwriting existing cells.
 
@@ -14,26 +14,22 @@ The application automatically checks all possible winning conditions after every
 
 The code follows an object-oriented structure, making it easy to understand, modify, and extend. This project is suitable for beginners who want to learn event-driven programming, basic game logic, and GUI development using Python.
 
----
+### Technologies Used:
 
-### Technologies Used
+ Python
+  
+ Tkinter
 
-* Python
-* Tkinter
+### How to Run:
 
----
-
-### How to Run
-
-```bash
 python tic_tac_toe.py
-```
 
----
+### Learning Outcomes:
 
-### Learning Outcomes
+Understanding Tkinter widgets and layouts
 
-* Understanding Tkinter widgets and layouts
-* Implementing turn-based game logic
-* Handling user events and callbacks
-* Applying object-oriented programming concepts
+Implementing turn-based game logic
+
+Handling user events and callbacks
+
+Applying object-oriented programming concepts
